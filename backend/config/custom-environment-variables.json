@@ -1,0 +1,5 @@
+{
+    "serviceName": "SERVICE_NAME",
+    "timezone": "TIMEZONE",
+    "mongodbUri": "MONGO_URL"
+}
